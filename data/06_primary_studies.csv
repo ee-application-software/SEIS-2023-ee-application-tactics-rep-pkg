@@ -1,143 +1,143 @@
-ID,Title,Authors,Venue,Venue Acronym,Venue Type,Year,Notes
-ZARPMKH3,Making web applications more energy efficient for OLED smartphones,"Li, Ding; Tran, Angelica Huyen; Halfond, William GJ",Proceedings of the 36th International Conference on Software Engineering,ICSE,C,2014,
-ZTXVCAIZ,Energy types,"Cohen, Michael; Zhu, Haitao Steve; Senem, Emgin Ezgi; Liu, Yu David",Proceedings of the ACM international conference on Object oriented programming systems languages and applications,OOPSLA,C,2012,
-X4SLRU4W,Share sens: An approach to optimizing energy consumption of continuous mobile sensing workloads,"Moamen, Ahmed Abdel; Jamali, Nadeem",2015 IEEE International Conference on Mobile Services,MS,C,2015,
-QRF2VWTV,Energy efficient data encryption techniques in smartphones,"Mujtaba, Ghulam; Tahir, Muhammad; Soomro, Muhammad Hanif",Wireless Personal Communications,Wireless Personal Communications,J,2019,
-CIQNDCVP,Detecting energy bugs and hotspots in mobile apps,"Banerjee, Abhijeet; Chong, Lee Kee; Chattopadhyay, Sudipta; Roychoudhury, Abhik",Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations of Software Engineering,FSE,C,2014,
-UWBD8DUZ,Investigating the correlation between performance scores and energy consumption of mobile web apps,"Chan-Jong-Chu, Kwame; Islam, Tanjina; Exposito, Miguel Morales; Sheombar, Sanjay; Valladares, Christian; Philippot, Olivier; Grua, Eoin Martino; Malavolta, Ivano",Proceedings of the evaluation and assessment in software engineering,EASE,C,2020,
-ULKD3R3F,Jolinar: analysing the energy footprint of software applications,"Noureddine, Adel; Islam, Syed; Bashroush, Rabih",Proceedings of the 25th International Symposium on Software Testing and Analysis,ISSTA,C,2016,
-3BCM2CIS,A preliminary study of the impact of software engineering on greenit,"Noureddine, Adel; Bourdon, Aurelien; Rouvoy, Romain; Seinturier, Lionel",2012 First International Workshop on Green and Sustainable Software (GREENS),GREENS,W,2012,
-ZFADW8SU,Object-oriented genetic improvement for improved energy consumption in Google Guava,"Burles, Nathan; Bowles, Edward; Brownlee, Alexander EI; Kocsis, Zoltan A.; Swan, Jerry; Veerapen, Nadarajen",International Symposium on Search Based Software Engineering,SSBSE ,C,2015,Extended by 7IFZJFLT
-RL4Q2U3X,An Automated Code Optimizer of Design Patterns for Reducing Energy Usage in Green Computing,"Din, Jamilah; Wei, Ooi Chiew; Jasser, Muhammed Basheer",International Journal of Engineering & Technology,IJET,J,2018,
-9HVUQKK3,The power of system call traces: predicting the software energy consumption impact of changes.,"Aggarwal, Karan; Zhang, Chenlei; Campbell, Joshua Charles; Hindle, Abram; Stroulia, Eleni",CASCON,CASCON,C,2014,
-R2FNZSWN,Investigating the Impact of Code Refactoring Techniques on Energy Consumption in Different Object-Oriented Programming Languages,"Sanlialp, Ibrahim; Ozturk, Muhammed Maruf",The International Conference on Artificial Intelligence and Applied Mathematics in Engineering,ICAIAME ,C,2019,
-DQRV7XAC,Refactoring android java code for on-demand computation offloading,"Zhang, Ying; Huang, Gang; Liu, Xuanzhe; Zhang, Wei; Mei, Hong; Yang, Shunxiang",Proceedings of the ACM international conference on Object oriented programming systems languages and applications,OOPSLA,C,2012,
-8EAS3MJ2,Exploiting significance of computations for energy-constrained approximate computing,"Vassiliadis, Vassilis; Chalios, Charalampos; Parasyris, Konstantinos; Antonopoulos, Christos D.; Lalis, Spyros; Bellas, Nikolaos; Vandierendonck, Hans; Nikolopoulos, Dimitrios S.",International Journal of Parallel Programming,International Journal of Parallel Programming,J,2016,
-QEN7UH85,Estimating software energy consumption with machine learning approach by software performance feature,"Fu, Cuijiao; Qian, Depei; Luan, Zhongzhi","2018 IEEE International Conference on Internet of Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cyber, Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData)",iThings/GreenCom/CPSCom/SmartData,C,2018,
-G9ZC4CU8,"Android app energy efficiency: The impact of language, runtime, compiler, and implementation","Chen, Xinbo; Zong, Ziliang","2016 IEEE international conferences on big data and cloud computing (BDCloud), social computing and networking (socialcom), sustainable computing and communications (sustaincom)(BDCloud/SocialCom/SustainCom)",BDCloud/SocialCom/SustainCom,C,2016,
-BKJYESRW,Green software: Refactoring approach,"Sehgal, Rajni; Mehrotra, Deepti; Nagpal, Renuka; Sharma, Ramanuj",Journal of King Saud University-Computer and Information Sciences,Journal of King Saud University,J,2020,
-59ILI6BA,EnerJ: Approximate data types for safe and general low-power computation,"Sampson, Adrian; Dietl, Werner; Fortuna, Emily; Gnanapragasam, Danushen; Ceze, Luis; Grossman, Dan",PLDI '11: Proceedings of the 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,C,2011,
-ZSJ2LGWL,How to measure energy-efficiency of software: Metrics and measurement results,"Johann, Timo; Dick, Markus; Naumann, Stefan; Kern, Eva",2012 First International Workshop on Green and Sustainable Software (GREENS),GREENS,W,2012,
-4KGZLD99,Calculating source line level energy information for android applications,"Li, Ding; Hao, Shuai; Halfond, William GJ; Govindan, Ramesh",ISSTA 2013: Proceedings of the 2013 International Symposium on Software Testing and Analysis,ISSTA,C,2013,
-ILXTNC4I,Studying energy trade offs in offloading computation/compilation in java-enabled mobile devices,"Chen, Guangyu; Kang, B.-T.; Kandemir, Mahmut; Vijaykrishnan, Narayanan; Irwin, Mary Jane; Chandramouli, Rajarathnam",IEEE Transactions on Parallel and Distributed Systems,IEEE Transactions on Parallel and Distributed Systems,J,2004,
-SPWLZ6BY,Energy efficient software development life cycle-An approach towards smart computing,"Sharma, Sunil Kumar; Gupta, P. K.; Malekian, Reza","2015 IEEE International Conference on Computer Graphics, Vision and Information Security (CGVIS)",CGVIS,C,2015,
-NEG9D9ZD,Analysis of energy consumption and optimization techniques for writing energy-efficient code,"Corral-García, Javier; Lemus-Prieto, Felipe; González-Sánchez, José-Luis; Pérez-Toledano, Miguel-Ángel",Electronics,Electronics,J,2019,
-3ENRR9HW,Green web services: Modeling and estimating power consumption of web services,"Bartalos, Peter; Blake, M. Brian",2012 IEEE 19th International Conference on Web Services,ICWS,C,2012,
-BCGVNHPS,Energy-efficient multisite offloading policy using Markov decision process for mobile cloud computing,"Terefe, Mati B.; Lee, Heezin; Heo, Nojung; Fox, Geoffrey C.; Oh, Sangyoon",Pervasive and Mobile Computing,PMC ,J,2016,
-3DSC22RI,Towards a green ranking for programming languages,"Couto, Marco; Pereira, Rui; Ribeiro, Francisco; Rua, Rui; Saraiva, João",Proceedings of the 21st Brazilian Symposium on Programming Languages,SBLP,C,2017,
-7WF3N24V,A programming environment with runtime energy characterization for energy-aware applications,"Xian, Changjiu; Lu, Yung-Hsiang; Li, Zhiyuan",Proceedings of the 2007 international symposium on Low power electronics and design (ISLPED'07),ISLPED,C,2007,
-4GW9NRNL,Estimating mobile application energy consumption using program analysis,"Hao, Shuai; Li, Ding; Halfond, William GJ; Govindan, Ramesh",2013 35th international conference on software engineering (ICSE),ICSE,C,2013,
-FPFPKGFR,Unit testing of energy consumption of software libraries,"Noureddine, Adel; Rouvoy, Romain; Seinturier, Lionel",Proceedings of the 29th Annual ACM Symposium on Applied Computing,SAC,C,2014,Extended by WSRMLBPA
-4MWD3GI2,Manageable granularity in mobile application code offloading for energy savings,"Yang, Sirui",2012 IEEE International Conference on Green Computing and Communications,iThings/GreenCom/CPSCom/SmartData,C,2012,
-32N22PF9,"Software-based energy profiling of android apps: Simple, efficient and reliable?","Di Nucci, Dario; Palomba, Fabio; Prota, Antonio; Panichella, Annibale; Zaidman, Andy; De Lucia, Andrea","2017 IEEE 24th international conference on software analysis, evolution and reengineering (SANER)",SANER,C,2017,
-AWARRYWE,Evaluating the Impact of Java Virtual Machines on Energy Consumption,"Ournani, Zakaria; Belgaid, Mohammed Chakib; Rouvoy, Romain; Rust, Pierre; Penhoat, Joel",Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM),ESEM,C,2021,
-WHU8YABA,Green configurations of functional quality attributes,"Horcas, Jose-Miguel; Pinto, Mónica; Fuentes, Lidia",Proceedings of the 21st International Systems and Software Product Line Conference-Volume A,SPLC,C,2017,Extended by 8Z4FJ9KZ
-JRTZZRR6,Environmental Sustainability Coding Techniques for Cloud Computing,"Ahmed, Shakeel",International Journal of Advanced Computer Science and Applications (IJACSA),IJACSA,J,2020,
-MVFWKW7Q,A process for analysing the energy efficiency of software,"Mancebo, Javier; García, Félix; Calero, Coral",Information and Software Technology,Information and Software Technology,J,2021,
-PCMY4PCB,Code Smell Refactoring for Energy Optimization of Android Apps,"Sehgal, Rajni; Mehrotra, Deepti; Nagpal, Renuka; Choudhury, Tanupriya",Innovations in Cyber Physical Systems,Innovations in Cyber Physical Systems,C,2021,
-7EBBEQTC,Automated re-factoring of android apps to enhance energy-efficiency,"Banerjee, Abhijeet; Roychoudhury, Abhik",Proceedings of the International Conference on Mobile Software Engineering and Systems,MOBILESoft,C,2016,
-NPP5P5MB,${$AppScope$}$: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring,"Yoon, Chanmin; Kim, Dongwon; Jung, Wonwoo; Kang, Chulkoo; Cha, Hojung",2012 USENIX Annual Technical Conference (USENIX ATC 12),USENIX ATC,C,2012,
-WD2TZU2M,Early analysis of resource consumption patterns in mobile applications,"Berrocal, Javier; Garcia-Alonso, Jose; Vicente-Chicote, Cristina; Hernández, Juan; Mikkonen, Tommi; Canal, Carlos; Murillo, Juan M.",Pervasive and Mobile Computing,PMC ,J,2017,
-MY8FDDML,Removing Decorator to Improve Energy Efficiency,"Bree, Déaglán Connolly; Cinnéide, Mel Ó","2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",SANER,C,2022,
-WJWP6D4S,Understanding green software development: A conceptual framework,"Ardito, Luca; Procaccianti, Giuseppe; Torchiano, Marco; Vetro, Antonio",IT Professional,IT Professional,J,2015,
-X4C8FVY7,Predicting data structures for energy efficient computing,"Michanan, Junya; Dewri, Rinku; Rutherford, Matthew J.",2015 Sixth International Green and Sustainable Computing Conference (IGSC),IGSC,C,2015,
-BAEDN8AK,Automated energy optimization of http requests for mobile applications,"Li, Ding; Lyu, Yingjun; Gui, Jiaping; Halfond, William GJ",2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE),ICSE,C,2016,
-LI3HIYWS,Green: A framework for supporting energy-conscious programming using controlled approximation,"Baek, Woongki; Chilimbi, Trishul M.",Proceedings of the 31st ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,C,2010,
-F75EJ3E3,Towards power reduction through improved software design,"Sahin, Cagri; Cayci, Furkan; Clause, James; Kiamilev, Fouad; Pollock, Lori; Winbladh, Kristina",2012 IEEE Energytech,IEEE Energytech,C,2012,
-KSR7NJ2X,A study of the energy consumption of databases and cloud patterns,"Bani, Béchir; Khomh, Foutse; Guéhéneuc, Yann-Gaël",International Conference on Service-Oriented Computing,ICSOC,C,2016,
-JZINRXHH,"Using the Greenup, Powerup, and Speedup metrics to evaluate software energy efficiency","Abdulsalam, Sarah; Zong, Ziliang; Gu, Qijun; Qiu, Meikang",2015 Sixth International Green and Sustainable Computing Conference (IGSC),IGSC,C,2015,
-7FV8X9PI,Performance events based full system estimation on application power consumption,"Yang, Shu; Luan, Zhongzhi; Li, Binyang; Zhang, Ge; Huang, Tianming; Qian, Depei",2016 IEEE 18th International Conference on High Performance Computing and Communications; IEEE 14th International Conference on Smart City; IEEE 2nd International Conference on Data Science and Systems (HPCC/SmartCity/DSS),HPCC/SmartCity/DSS,C,2016,
-6VBJLJ6V,EARLY ANALYSIS OF SOFTWARE ARCHITECTURE TO ESTIMATE ENERGY CONSUMPTION IN ANDROID PLATFORM,"AL NIDAWI, HASAN SAJID ATTA; WEI, KOH TIENG; KHALEEL, AMMAR; DAWOOD, KAREEM ABBAS",Journal of Theoretical and Applied Information Technology,JATIT,J,2018,
-95RQKDX5,Saving Energy on Mobile Devices by Refactoring.,"Gottschalk, Marion; Jelschen, Jan; Winter, Andreas",EnviroInfo,EnviroInfo,C,2014,
-NDDAZBX9,Deep parameter optimisation on android smartphones for energy minimisation: a tale of woe and a proof-of-concept,"Bokhari, Mahmoud A.; Bruce, Bobby R.; Alexander, Brad; Wagner, Markus",Proceedings of the Genetic and Evolutionary Computation Conference Companion,GECCO,C,2017,
-XSNECSAB,Catalog of energy patterns for mobile applications,"Cruz, Luis; Abreu, Rui",Empirical Software Engineering,Empirical Software Engineering,J,2019,
-EUGXAZQP,Exploring evolutionary search strategies to improve applications’ energy efficiency,"Manotas, Irene; Clause, James; Pollock, Lori",International Symposium on Search Based Software Engineering,SSBSE ,J,2018,Extended version.
-92K5Z6UT,Inheritance versus delegation: Which is more energy efficient?,"Connolly Bree, Déaglán; Cinnéide, Mel Ó",Proceedings of the IEEE/ACM 42nd International Conference on Software Engineering Workshops,ICSEW,C,2020,
-TFPBHQPQ,Greenadvisor: A tool for analyzing the impact of software evolution on energy consumption,"Aggarwal, Karan; Hindle, Abram; Stroulia, Eleni",2015 IEEE international conference on software maintenance and evolution (ICSME),ICSME,C,2015,
-N6B6VC4R,Phone2Cloud: Exploiting computation offloading for energy saving on smartphones in mobile cloud computing,"Xia, Feng; Ding, Fangwei; Li, Jie; Kong, Xiangjie; Yang, Laurence T.; Ma, Jianhua",Information Systems Frontiers,Information Systems Frontiers,J,2014,
-WDMGKU7Q,Automated Refactoring for Energy-Aware Software,"Bree, Déaglán Connolly; Cinnéide, Mel Ó",2021 IEEE International Conference on Software Maintenance and Evolution (ICSME),ICSME,C,2021,
-AIPITBCT,"Choosing the"" Best"" Sorting Algorithm for Optimal Energy Consumption.","Bunse, Christian; Höpfner, Hagen; Roychoudhury, Suman; Mansour, Essam",ICSOFT (2),ICSOFT,C,2009,Extended by WKB2W4CI
-WKB2W4CI,Energy efficient data sorting using standard sorting algorithms,"Bunse, Christian; Höpfner, Hagen; Roychoudhury, Suman; Mansour, Essam",International Conference on Software and Data Technologies,ICSOFT,C,2009,Extended version
-U2KEHF3V,Understanding the impact of object oriented programming and design patterns on energy efficiency,"Maleki, Sepideh; Fu, Cuijiao; Banotra, Arun; Zong, Ziliang",2017 Eighth International Green and Sustainable Computing Conference (IGSC),IGSC,C,2017,
-TSMJCEQN,Toward using software metrics as indicator to measure power consumption of mobile application: A case study,"Keong, Ching Kin; Wei, Koh Tieng; Ghani, Abdul Azim Abd; Sharif, Khaironi Yatim",2015 9th Malaysian Software Engineering Conference (MySEC),MySEC,C,2015,
-V74XCRN7,Optimizing energy consumption of guis in android apps: A multi-objective approach,"Paper proposes a multi-objective technique to generate color compositions that reduce the energy consumption of GUIs in Android apps and are visually attractive at the same time. The paper uses pixel-engineering, power-models, color theory, dynamic analysis and genetic algorithms to create a pareto-optimal color set to optimize three scenarios, increasing energy efficiency, increasing contrast, and improving the attractiveness of colors.",Proceedings of the 2015 10th Joint Meeting on Foundations of Software Engineering,ESEC/FSE,C,2015,
-AAPZ4E7T,"Energy efficiency across programming languages: how do energy, time, and memory relate?","Pereira, Rui; Couto, Marco; Ribeiro, Francisco; Rua, Rui; Cunha, Jácome; Fernandes, João Paulo; Saraiva, João",PLDI '10: Proceedings of the 31st ACM SIGPLAN Conference on Programming Language Design and Implementation,PLDI,C,2017,
-S2IRVNC6,A study of energy-aware implementation techniques: Redistribution of computational jobs in mobile apps,"Corral, Luis; Georgiev, Anton B.; Sillitti, Alberto; Succi, Giancarlo",Sustainable Computing: Informatics and Systems,SUSCOM,J,2015,
-DJW8RCH4,"Comparing REST, SOAP, Socket and gRPC in computation offloading of mobile applications: An energy cost analysis","Chamas, Carolina Luiza; Cordeiro, Daniel; Eler, Marcelo Medeiros",2017 IEEE 9th Latin-American Conference on Communications (LATINCOM),LATINCOM,C,2017,
-37QLWH7J,Green software requirements and measurement: random decision forests-based software energy consumption profiling,"Beghoura, Mohamed Amine; Boubetra, Abdelhak; Boukerram, Abdallah",Requirements Engineering,Requirements Engineering,J,2017,
-G5W86TY3,Extending software architecture views with an energy consumption perspective,"Jagroep, Erik; van der Werf, Jan Martijn; Brinkkemper, Sjaak; Blom, Leen; van Vliet, Rob",Computing,Computing,J,2017,
-3EL5YH3B,Mobile device power models for energy efficient dynamic offloading at runtime,"Ali, Farhan Azmat; Simoens, Pieter; Verbelen, Tim; Demeester, Piet; Dhoedt, Bart",Journal of Systems and Software,JSS,J,2016,
-AZHT26VR,Energy optimization in Android applications through wakelock placement,"Alam, Faisal; Panda, Preeti Ranjan; Tripathi, Nikhil; Sharma, Namita; Narayan, Sanjiv","2014 Design, Automation & Test in Europe Conference & Exhibition (DATE)",DATE,C,2014,
-5IT56E4B,Energy Efficiency Analysis of Code Refactoring Techniques for Green and Sustainable Software in Portable Devices,"Şanlıalp, İbrahim; Öztürk, Muhammed Maruf; Yiğit, Tuncay",Electronics,Electronics,J,2022,
-55EMQ48G,Impacts of software and its engineering on the carbon footprint of ICT,"Kern, Eva; Dick, Markus; Naumann, Stefan; Hiller, Tim",Environmental Impact Assessment Review,Environmental Impact Assessment Review,J,2015,
-XX5522G7,Green Patterns of User Interface Design: A Guideline for Sustainable Design Practices,"Nayak, Jitesh; Chandwadkar, Apurva",International Conference on Human-Computer Interaction,HCII,C,2021,
-59HNH3FK,Evaluation of Software Product Quality Attributes and Environmental Attributes using ANP Decision Framework.,"Koçak, Sedef Akinli; Alptekin, Gülfem Isiklar; Bener, Ayse",RE4SuSy@ RE,RE4SuSy,W,2014,
-DVMM6IHF,Self-adaptive battery and context aware mobile application development,"Datta, Soumya Kanti; Bonnet, Christian; Nikaein, Navid",2014 International Wireless Communications and Mobile Computing Conference (IWCMC),IWCMC,C,2014,
-85U3NXXL,Greenbundle: an empirical study on the energy impact of bundled processing,"Chowdhury, Shaiful Alam; Hindle, Abram; Kazman, Rick; Shuto, Takumi; Matsui, Ken; Kamei, Yasutaka",2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE),ICSE,C,2019,
-8JYDG2EY,Reducing energy consumption using genetic improvement,"Bruce, Bobby R.; Petke, Justyna; Harman, Mark",Proceedings of the 2015 Annual Conference on Genetic and Evolutionary Computation,GECCO,C,2015,
-MNKBE98K,Towards automatic significance analysis for approximate computing,"Vassiliadis, Vassilis; Riehme, Jan; Deussen, Jens; Parasyris, Konstantinos; Antonopoulos, Christos D.; Bellas, Nikolaos; Lalis, Spyros; Naumann, Uwe",2016 IEEE/ACM International Symposium on Code Generation and Optimization (CGO),CGO,C,2016,
-H6BXP35P,Ape: An annotation language and middleware for energy-efficient mobile application development,"Nikzad, Nima; Chipara, Octav; Griswold, William G.",Proceedings of the 36th International Conference on Software Engineering,ICSE,C,2014,
-IWFUWMJD,Investigating Energy and Security Trade-offs in the Classroom with the Atom ${$LEAP$}$ Testbed,"Peterson, Peter AH; Singh, Digvijay; Kaiser, William J.; Reiher, Peter L.",4th Workshop on Cyber Security Experimentation and Test (CSET 11),CSET,W,2011,
-M6QR5AHA,Differences of energetic consumption between Java and JNI Android apps,"Ramírez, Ricardo Isidro; Rubio, Erika Hernández; Viveros, Amilcar Meneses; Hernández, Irene Monserrat Torres",2014 International Symposium on Integrated Circuits (ISIC),ISIC,C,2014,
-EQ8JEST9,Self-adaptive energy-efficent applications: the hadas developing approach,"Horcas, Jose Miguel; Pinto, Mónica; Fuentes, Lidia; Gámez, Nadia","2017 IEEE 15th Intl Conf on Dependable, Autonomic and Secure Computing, 15th Intl Conf on Pervasive Intelligence and Computing, 3rd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress (DASC/PiCom/DataCom/CyberSciTech)",DASC,C,2017,
-QKX9UAJY,Fine-grained power management using process-level profiling,"Chen, Hui; Li, Youhuizi; Shi, Weisong",Sustainable Computing: Informatics and Systems,SUSCOM,J,2012,Extended version.
-4S65RXRF,Green mining: a methodology of relating software change and configuration to power consumption,"Hindle, Abram",Empirical Software Engineering,Empirical Software Engineering,J,2015,
-R3CPADII,Greenminer: A hardware based mining software repositories software energy consumption framework,"Hindle, Abram; Wilson, Alex; Rasmussen, Kent; Barlow, E. Jed; Campbell, Joshua Charles; Romansky, Stephen",Proceedings of the 11th working conference on mining software repositories,ICSE,C,2014,
-4A3AGUKH,A comprehensive study on the energy efficiency of java’s thread-safe collections,"Pinto, Gustavo; Liu, Kenan; Castor, Fernando; Liu, Yu David",2016 IEEE International Conference on Software Maintenance and Evolution (ICSME),ICSME,C,2016,
-Y2YHD6TU,Initial explorations on design pattern energy usage,"Sahin, Cagri; Cayci, Furkan; Gutierrez, Irene Lizeth Manotas; Clause, James; Kiamilev, Fouad; Pollock, Lori; Winbladh, Kristina",2012 First International Workshop on Green and Sustainable Software (GREENS),GREENS,W,2012,
-F7RAFTPT,GREEN MOBILE APPLICATION DEVELOPMENT THROUGH SOFTWARE LOCALIZATION,"Kasakliev, Nikolay; Somova, Elena; Gocheva, Margarita",International Journal on Information Technologies & Security,IJITS,J,2019,
-48433ESM,Evaluating the impact of code smell refactoring on the energy consumption of android applications,"Anwar, Hina; Pfahl, Dietmar; Srirama, Satish N.",2019 45th Euromicro Conference on Software Engineering and Advanced Applications (SEAA),SEAA,C,2019,
-7UV7UTAY,Is software “green”? Application development environments and energy efficiency in open source applications,"Capra, Eugenio; Francalanci, Chiara; Slaughter, Sandra A.",Information and Software Technology,Information and Software Technology,J,2012,Extended by MP459RVF
-HGVX2ISL,Exploring the energy consumption of data sorting algorithms in embedded and mobile environments,"Bunse, Christian; Höpfner, Hagen; Mansour, Essam; Roychoudhury, Suman","2009 Tenth International Conference on Mobile Data Management: Systems, Services and Middleware",MDM,C,2009,
-PSP8YZTG,"Program energy efficiency: The impact of language, compiler and implementation choices","Abdulsalam, Sarah; Lakomski, Donna; Gu, Qijun; Jin, Tongdan; Zong, Ziliang",International Green Computing Conference,IGSC,C,2014,
-SJ37G2UP,What is keeping my phone awake? Characterizing and detecting no-sleep energy bugs in smartphone apps,"Pathak, Abhinav; Jindal, Abhilash; Hu, Y. Charlie; Midkiff, Samuel P.","Proceedings of the 10th international conference on Mobile systems, applications, and services",MOBISYS,C,2012,
-6RUTHNIE,Haskell in green land: Analyzing the energy behavior of a purely functional language,"Lima, Luís Gabriel; Soares-Neto, Francisco; Lieuthier, Paulo; Castor, Fernando; Melfe, Gilberto; Fernandes, João Paulo","2016 IEEE 23rd international conference on Software Analysis, Evolution, and Reengineering (SANER)",SANER,C,2016,
-T35M4IVQ,Process-level power estimation in vm-based systems,"Colmant, Maxime; Kurpicz, Mascha; Felber, Pascal; Huertas, Loïc; Rouvoy, Romain; Sobe, Anita",Proceedings of the Tenth European Conference on Computer Systems,EUROSYS,C,2015,
-WSRMLBPA,Monitoring energy hotspots in software,"Noureddine, Adel; Rouvoy, Romain; Seinturier, Lionel",Automated Software Engineering,Automated Software Engineering,J,2015,Extended version.
-YXRUR287,Understanding the impact of cloud patterns on performance and energy consumption,"Khomh, Foutse; Abtahizadeh, S. Amirhossein",Journal of Systems and Software,Journal of Systems and Software,J,2018,Extended version.
-WCP7LAPJ,On the impact of code smells on the energy consumption of mobile applications,"Palomba, Fabio; Di Nucci, Dario; Panichella, Annibale; Zaidman, Andy; De Lucia, Andrea",Information and Software Technology,Information and Software Technology,J,2019,
-2UXA9MJ2,An investigation into energy-saving programming practices for android smartphone app development,"Li, Ding; Halfond, William GJ",Proceedings of the 3rd International Workshop on Green and Sustainable Software,GREENS,W,2014,
-UHQWKP93,Greening an existing software system using the GPU,"Scanniello, Giuseppe; Erra, Ugo; Caggianese, Giuseppe; Gravino, Carmine",Software-Practice & Experience,Software-Practice & Experience,J,2013,
-SXUACNPF,Understanding energy behaviors of thread management constructs,"Pinto, Gustavo; Castor, Fernando; Liu, Yu David",Proceedings of the 2014 ACM International Conference on Object Oriented Programming Systems Languages & Applications,OOPSLA,C,2014,
-ZC77Q3ZT,Assessment of rest and websocket in regards to their energy consumption for mobile applications,"Herwig, Volker; Fischer, René; Braun, Peter",2015 IEEE 8th International Conference on Intelligent Data Acquisition and Advanced Computing Systems: Technology and Applications (IDAACS),IDAACS,C,2015,
-IL5CDLN3,Anole: a case for energy-aware mobile application design,"Chen, Hui; Luo, Bing; Shi, Weisong",2012 41st International Conference on Parallel Processing Workshops,ICPPW,C,2012,
-8Z4FJ9KZ,Variability models for generating efficient configurations of functional quality attributes,"Horcas, Jose-Miguel; Pinto, Mónica; Fuentes, Lidia",Information and Software Technology,Information and Software Technology,J,2018,Extended version.
-TSQNKEX2,Energy Efficient Software Development Techniques for Cloud based Applications,"Alsayyah, Aeshah A.; Ahmed, Shakeel",International Journal of Advanced Trends in Computer Science and Engineering,IJATCSE,J,2020,
-8JBIUZ3B,Melta: A method level energy estimation technique for android development,"Farooq, Muhammad Umer; Khan, Saif Ur Rehman; Beg, Mirza Omer",2019 International Conference on Innovative Computing (ICIC),ICIC,C,2019,
-IHN8YLLL,An empirical study of the energy consumption of android applications,"Li, Ding; Hao, Shuai; Gui, Jiaping; Halfond, William GJ",2014 IEEE International Conference on Software Maintenance and Evolution,ICSM,C,2014,
-EEA62K47,Characterizing the performance and energy efficiency of lock-free data structures,"Hunt, Nicholas; Sandhu, Paramjit Singh; Ceze, Luis",2011 15th Workshop on Interaction between Compilers and Computer Architectures,INTERACT,W,2011,
-G4AEGEBJ,A source-level energy optimization framework for mobile applications,"Li, Xueliang; Gallagher, John P.",2016 IEEE 16th International Working Conference on Source Code Analysis and Manipulation (SCAM),SCAM,C,2016,
-TEJY8MU2,Time-and-energy-aware computation offloading in handheld devices to coprocessors and clouds,"Lin, Ying-Dar; Chu, Edward T.-H.; Lai, Yuan-Cheng; Huang, Ting-Jun",IEEE Systems Journal,IEEE Systems Journal,J,2013,
-TN6IQC7E,Tools supporting green computing in Erlang,"Nagy, Gergely; Mészáros, Áron Attila; Bozó, István; Tóth, Melinda",Proceedings of the 18th ACM SIGPLAN International Workshop on Erlang,ERLANG,W,2019,
-MT89KSP5,Green software architectures: A market-based approach,"Rangaraj, Govindaraj; Bahsoon, Rami",The Second International Workshop on Software Research and Climate Change (WSRCC),WSRCC,W,2010,
-K2EMKWMY,Accurate online power estimation and automatic battery behavior based power model generation for smartphones,"Zhang, Lide; Tiwana, Birjodh; Qian, Zhiyun; Wang, Zhaoguang; Dick, Robert P.; Mao, Zhuoqing Morley; Yang, Lei",Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis,CODES/ISSS,C,2010,
-57QF6PCN,A green software development life cycle for cloud computing,"Chauhan, Nitin Singh; Saxena, Ashutosh",IT Professional,IT Professional,J,2013,
-HBFJ9WHS,Seeds: A software engineer's energy-optimization decision support framework,"Manotas, Irene; Pollock, Lori; Clause, James",Proceedings of the 36th International Conference on Software Engineering,ICSE,C,2014,Extended by EUGXAZQP
-GXRX9RTC,Investigation for Software Power Consumption of Code Refactoring Techniques.,"Park, Jae Jin; Hong, Jang-Eui; Lee, Sang-Ho",SEKE: Software Engineering and Knowledge Engineering,SEKE,C,2014,
-FHS5P4KV,ptop: A process-level power profiling tool,"Do, Thanh; Rawshdeh, Suhib; Shi, Weisong",22nd ACM Symposium on Operating Systems Principles,SOSP,C,2009,Extended by QKX9UAJY
-PNH7EFHR,Greenoracle: Estimating software energy consumption with energy measurement corpora,"Chowdhury, Shaiful Alam; Hindle, Abram",2016 IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR),MSR,C,2016,
-K5C2XV33,Energy profiles of java collections classes,"Hasan, Samir; King, Zachary; Hafiz, Munawar; Sayagh, Mohammed; Adams, Bram; Hindle, Abram",Proceedings of the 38th International Conference on Software Engineering,ICSE,C,2016,
-XUTI2HG8,Empirical evaluation of two best practices for energy-efficient software development,"Procaccianti, Giuseppe; Fernández, Héctor; Lago, Patricia",Journal of Systems and Software,JSS,J,2016,
-LSBAJWP4,Investigating the effect of design patterns on energy consumption,"Feitosa, Daniel; Alders, Rutger; Ampatzoglou, Apostolos; Avgeriou, Paris; Nakagawa, Elisa Yumi",Journal of Software: Evolution and Process,Journal of Software: Evolution and Process,J,2017,
-7IFZJFLT,Search-based energy optimization of some ubiquitous algorithms,"Brownlee, Alexander Edward Ian; Burles, Nathan; Swan, Jerry",IEEE Transactions on Emerging Topics in Computational Intelligence,IEEE Transactions on Emerging Topics in Computational Intelligence,J,2017,Extended version.
-TKSV4V8X,Optimising energy consumption of design patterns,"Noureddine, Adel; Rajan, Ajitha",2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,ICSE,C,2015,
-D8RELEFX,Mining energy-greedy api usage patterns in android apps: an empirical study,"Linares-Vásquez, Mario; Bavota, Gabriele; Bernal-Cárdenas, Carlos; Oliveto, Rocco; Di Penta, Massimiliano; Poshyvanyk, Denys",Proceedings of the 11th working conference on mining software repositories,MSR,C,2014,
-S5BDSYDG,An Aspect Oriented Model for Software Energy Efficiency in Decentralised Servers.,"Chinenyeze, Samuel; Liu, Xiaodong; Al-Dubai, Ahmed Yassin",ICT4S,ICT4S ,C,2014,
-44E3X95Z,Earmo: An energy-aware refactoring approach for mobile apps,"Morales, Rodrigo; Saborido, Rubén; Khomh, Foutse; Chicano, Francisco; Antoniol, Giuliano",IEEE Transactions on Software Engineering,IEEE Transactions on Software Engineering,J,2017,Extended version.
-MXC33NQL,Architectural Tactics to Optimize Software for Energy Efficiency in the Public Cloud,"Vos, Sophie; Lago, Patricia; Verdecchia, Roberto; Heitlager, Ilja",International Conference on ICT for Sustainability,ICT4S ,C,2022,
-NE83TEBM,Energy consumption and efficiency in mobile applications: A user feedback study,"Wilke, Claas; Richly, Sebastian; Götz, Sebastian; Piechnick, Christian; Aßmann, Uwe","2013 IEEE International Conference on Green Computing and Communications and IEEE Internet of Things and IEEE Cyber, Physical and Social Computing",GREENCOM,C,2013,
-G3L58GAT,Data-oriented characterization of application-level energy optimization,"Liu, Kenan; Pinto, Gustavo; Liu, Yu David",International Conference on Fundamental Approaches to Software Engineering,FASE ,C,2015,
-XBNH9NN5,Code-level Optimization for Program Energy Consumption,"Fu, Cuijiao; Qian, Depei; Huang, Tianming; Luan, Zhongzhi","COMPUTATION TOOLS 2019 : The Tenth International Conference on Computational Logics, Algebras, Programming, Tools, and Benchmarking",COMPUTATION TOOLS ,C,2019,
-ISZGIP3F,SPELLing out energy leaks: Aiding developers locate energy inefficient code,"Pereira, Rui; Carção, Tiago; Couto, Marco; Cunha, Jácome; Fernandes, João Paulo; Saraiva, João",Journal of Systems and Software,JSS,J,2020,
-2GN8KRRP,Model-based energy efficiency analysis of software architectures,"Stier, Christian; Koziolek, Anne; Groenda, Henning; Reussner, Ralf",European conference on software architecture,ECSA,C,2015,
-VABHQVAY,Seflab: A lab for measuring software energy footprints,"Ferreira, Miguel A.; Hoekstra, Eric; Merkus, Bo; Visser, Bram; Visser, Joost",2013 2nd International workshop on green and sustainable software (GREENS),GREENS,W,2013,
-5FAZY5KA,Impact of developer choices on energy consumption of software on servers,"Singh, Jasmeet; Naik, Kshirasagar; Mahinthan, Veluppillai",Procedia Computer Science,Procedia Computer Science,J,2015,
-6PR46JX3,The software perspective for energy-efficient mobile applications development,"Siebra, Clauirton; Costa, Paulo; Miranda, Regina; Silva, Fabio QB; Santos, Andre",Proceedings of the 10th International Conference on Advances in Mobile Computing & Multimedia,MOMM,C,2012,
-ESMRAFHG,Comparing the Energy Consumption of Java I/O Libraries and Methods,"Ournani, Zakaria; Rouvoy, Romain; Rust, Pierre; Penhoat, Joel",37th International Conference on Software Maintenance and Evolution (ICSME),ICSME ,C,2021,
-MP459RVF,Measuring application software energy efficiency,"Capra, Eugenio; Francalanci, Chiara; Slaughter, Sandra A.",IT Professional,IT Professional,J,2012,Extended version.
-BMWTFVWN,How green are cloud patterns?,"Abtahizadeh, S. Amirhossein; Khomh, Foutse; Guéhéneuc, Yann-Gaël",2015 IEEE 34th International Performance Computing and Communications Conference (IPCCC),IPCCC,C,2015,Extended by YXRUR287
-39G59GN3,Leafactor: Improving energy efficiency of android apps via automatic refactoring,"Cruz, Luis; Abreu, Rui; Rouvignac, Jean-Noël",2017 IEEE/ACM 4th International Conference on Mobile Software Engineering and Systems (MOBILESoft),MOBILESoft,C,2017,
-98DNPTFE,Towards an Energy-Consumption Based Complexity Classification for Resource Substitution Strategies.,"Höpfner, Hagen; Bunse, Christian",Grundlagen von Datenbanken,GvD Workshop,W,2010,
-E5PP5MNY,Enforcing green code with Android lint,"Goaër, Olivier Le",Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering Workshops,ASE,C,2020,
-Z2IUW42Q,"Software optimization for performance, energy, and thermal distribution: Initial case studies","Khan, Md Ashfaquzzaman; Hankendi, Can; Coskun, Ayse Kivilcim; Herbordt, Martin C.",2011 International Green Computing Conference and Workshops,IGCC,C,2011,
-44IANVHH,Managing the energy-delay tradeoff in mobile applications with tempus,"Nikzad, Nima; Radi, Marjan; Chipara, Octav; Griswold, William G.",Proceedings of the 16th Annual Middleware Conference,MIDDLEWARE,C,2015,
+ID,Title,Authors,Year
+1,Making web applications more energy efficient for OLED smartphones,"Li, Ding; Tran, Angelica Huyen; Halfond, William GJ",2014
+2,Energy types,"Cohen, Michael; Zhu, Haitao Steve; Senem, Emgin Ezgi; Liu, Yu David",2012
+3,Share sens: An approach to optimizing energy consumption of continuous mobile sensing workloads,"Moamen, Ahmed Abdel; Jamali, Nadeem",2015
+4,Energy efficient data encryption techniques in smartphones,"Mujtaba, Ghulam; Tahir, Muhammad; Soomro, Muhammad Hanif",2019
+5,Detecting energy bugs and hotspots in mobile apps,"Banerjee, Abhijeet; Chong, Lee Kee; Chattopadhyay, Sudipta; Roychoudhury, Abhik",2014
+6,Investigating the correlation between performance scores and energy consumption of mobile web apps,"Chan-Jong-Chu, Kwame; Islam, Tanjina; Exposito, Miguel Morales; Sheombar, Sanjay; Valladares, Christian; Philippot, Olivier; Grua, Eoin Martino; Malavolta, Ivano",2020
+7,Jolinar: analysing the energy footprint of software applications,"Noureddine, Adel; Islam, Syed; Bashroush, Rabih",2016
+8,A preliminary study of the impact of software engineering on greenit,"Noureddine, Adel; Bourdon, Aurelien; Rouvoy, Romain; Seinturier, Lionel",2012
+9,Object-oriented genetic improvement for improved energy consumption in Google Guava,"Burles, Nathan; Bowles, Edward; Brownlee, Alexander EI; Kocsis, Zoltan A.; Swan, Jerry; Veerapen, Nadarajen",2015
+10,An Automated Code Optimizer of Design Patterns for Reducing Energy Usage in Green Computing,"Din, Jamilah; Wei, Ooi Chiew; Jasser, Muhammed Basheer",2018
+11,The power of system call traces: predicting the software energy consumption impact of changes.,"Aggarwal, Karan; Zhang, Chenlei; Campbell, Joshua Charles; Hindle, Abram; Stroulia, Eleni",2014
+12,Investigating the Impact of Code Refactoring Techniques on Energy Consumption in Different Object-Oriented Programming Languages,"Sanlialp, Ibrahim; Ozturk, Muhammed Maruf",2019
+13,Refactoring android java code for on-demand computation offloading,"Zhang, Ying; Huang, Gang; Liu, Xuanzhe; Zhang, Wei; Mei, Hong; Yang, Shunxiang",2012
+14,Exploiting significance of computations for energy-constrained approximate computing,"Vassiliadis, Vassilis; Chalios, Charalampos; Parasyris, Konstantinos; Antonopoulos, Christos D.; Lalis, Spyros; Bellas, Nikolaos; Vandierendonck, Hans; Nikolopoulos, Dimitrios S.",2016
+15,Estimating software energy consumption with machine learning approach by software performance feature,"Fu, Cuijiao; Qian, Depei; Luan, Zhongzhi",2018
+16,"Android app energy efficiency: The impact of language, runtime, compiler, and implementation","Chen, Xinbo; Zong, Ziliang",2016
+17,Green software: Refactoring approach,"Sehgal, Rajni; Mehrotra, Deepti; Nagpal, Renuka; Sharma, Ramanuj",2020
+18,EnerJ: Approximate data types for safe and general low-power computation,"Sampson, Adrian; Dietl, Werner; Fortuna, Emily; Gnanapragasam, Danushen; Ceze, Luis; Grossman, Dan",2011
+19,How to measure energy-efficiency of software: Metrics and measurement results,"Johann, Timo; Dick, Markus; Naumann, Stefan; Kern, Eva",2012
+20,Calculating source line level energy information for android applications,"Li, Ding; Hao, Shuai; Halfond, William GJ; Govindan, Ramesh",2013
+21,Studying energy trade offs in offloading computation/compilation in java-enabled mobile devices,"Chen, Guangyu; Kang, B.-T.; Kandemir, Mahmut; Vijaykrishnan, Narayanan; Irwin, Mary Jane; Chandramouli, Rajarathnam",2004
+22,Energy efficient software development life cycle-An approach towards smart computing,"Sharma, Sunil Kumar; Gupta, P. K.; Malekian, Reza",2015
+23,Analysis of energy consumption and optimization techniques for writing energy-efficient code,"Corral-García, Javier; Lemus-Prieto, Felipe; González-Sánchez, José-Luis; Pérez-Toledano, Miguel-Ángel",2019
+24,Green web services: Modeling and estimating power consumption of web services,"Bartalos, Peter; Blake, M. Brian",2012
+25,Energy-efficient multisite offloading policy using Markov decision process for mobile cloud computing,"Terefe, Mati B.; Lee, Heezin; Heo, Nojung; Fox, Geoffrey C.; Oh, Sangyoon",2016
+26,Towards a green ranking for programming languages,"Couto, Marco; Pereira, Rui; Ribeiro, Francisco; Rua, Rui; Saraiva, João",2017
+27,A programming environment with runtime energy characterization for energy-aware applications,"Xian, Changjiu; Lu, Yung-Hsiang; Li, Zhiyuan",2007
+28,Estimating mobile application energy consumption using program analysis,"Hao, Shuai; Li, Ding; Halfond, William GJ; Govindan, Ramesh",2013
+29,Unit testing of energy consumption of software libraries,"Noureddine, Adel; Rouvoy, Romain; Seinturier, Lionel",2014
+30,Manageable granularity in mobile application code offloading for energy savings,"Yang, Sirui",2012
+31,"Software-based energy profiling of android apps: Simple, efficient and reliable?","Di Nucci, Dario; Palomba, Fabio; Prota, Antonio; Panichella, Annibale; Zaidman, Andy; De Lucia, Andrea",2017
+32,Evaluating the Impact of Java Virtual Machines on Energy Consumption,"Ournani, Zakaria; Belgaid, Mohammed Chakib; Rouvoy, Romain; Rust, Pierre; Penhoat, Joel",2021
+33,Green configurations of functional quality attributes,"Horcas, Jose-Miguel; Pinto, Mónica; Fuentes, Lidia",2017
+34,Environmental Sustainability Coding Techniques for Cloud Computing,"Ahmed, Shakeel",2020
+35,A process for analysing the energy efficiency of software,"Mancebo, Javier; García, Félix; Calero, Coral",2021
+36,Code Smell Refactoring for Energy Optimization of Android Apps,"Sehgal, Rajni; Mehrotra, Deepti; Nagpal, Renuka; Choudhury, Tanupriya",2021
+37,Automated re-factoring of android apps to enhance energy-efficiency,"Banerjee, Abhijeet; Roychoudhury, Abhik",2016
+38,${$AppScope$}$: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring,"Yoon, Chanmin; Kim, Dongwon; Jung, Wonwoo; Kang, Chulkoo; Cha, Hojung",2012
+39,Early analysis of resource consumption patterns in mobile applications,"Berrocal, Javier; Garcia-Alonso, Jose; Vicente-Chicote, Cristina; Hernández, Juan; Mikkonen, Tommi; Canal, Carlos; Murillo, Juan M.",2017
+40,Removing Decorator to Improve Energy Efficiency,"Bree, Déaglán Connolly; Cinnéide, Mel Ó",2022
+41,Understanding green software development: A conceptual framework,"Ardito, Luca; Procaccianti, Giuseppe; Torchiano, Marco; Vetro, Antonio",2015
+42,Predicting data structures for energy efficient computing,"Michanan, Junya; Dewri, Rinku; Rutherford, Matthew J.",2015
+43,Automated energy optimization of http requests for mobile applications,"Li, Ding; Lyu, Yingjun; Gui, Jiaping; Halfond, William GJ",2016
+44,Green: A framework for supporting energy-conscious programming using controlled approximation,"Baek, Woongki; Chilimbi, Trishul M.",2010
+45,Towards power reduction through improved software design,"Sahin, Cagri; Cayci, Furkan; Clause, James; Kiamilev, Fouad; Pollock, Lori; Winbladh, Kristina",2012
+46,A study of the energy consumption of databases and cloud patterns,"Bani, Béchir; Khomh, Foutse; Guéhéneuc, Yann-Gaël",2016
+47,"Using the Greenup, Powerup, and Speedup metrics to evaluate software energy efficiency","Abdulsalam, Sarah; Zong, Ziliang; Gu, Qijun; Qiu, Meikang",2015
+48,Performance events based full system estimation on application power consumption,"Yang, Shu; Luan, Zhongzhi; Li, Binyang; Zhang, Ge; Huang, Tianming; Qian, Depei",2016
+49,EARLY ANALYSIS OF SOFTWARE ARCHITECTURE TO ESTIMATE ENERGY CONSUMPTION IN ANDROID PLATFORM,"AL NIDAWI, HASAN SAJID ATTA; WEI, KOH TIENG; KHALEEL, AMMAR; DAWOOD, KAREEM ABBAS",2018
+50,Saving Energy on Mobile Devices by Refactoring.,"Gottschalk, Marion; Jelschen, Jan; Winter, Andreas",2014
+51,Deep parameter optimisation on android smartphones for energy minimisation: a tale of woe and a proof-of-concept,"Bokhari, Mahmoud A.; Bruce, Bobby R.; Alexander, Brad; Wagner, Markus",2017
+52,Catalog of energy patterns for mobile applications,"Cruz, Luis; Abreu, Rui",2019
+53,Exploring evolutionary search strategies to improve applications’ energy efficiency,"Manotas, Irene; Clause, James; Pollock, Lori",2018
+54,Inheritance versus delegation: Which is more energy efficient?,"Connolly Bree, Déaglán; Cinnéide, Mel Ó",2020
+55,Greenadvisor: A tool for analyzing the impact of software evolution on energy consumption,"Aggarwal, Karan; Hindle, Abram; Stroulia, Eleni",2015
+56,Phone2Cloud: Exploiting computation offloading for energy saving on smartphones in mobile cloud computing,"Xia, Feng; Ding, Fangwei; Li, Jie; Kong, Xiangjie; Yang, Laurence T.; Ma, Jianhua",2014
+57,Automated Refactoring for Energy-Aware Software,"Bree, Déaglán Connolly; Cinnéide, Mel Ó",2021
+58,"Choosing the"" Best"" Sorting Algorithm for Optimal Energy Consumption.","Bunse, Christian; Höpfner, Hagen; Roychoudhury, Suman; Mansour, Essam",2009
+59,Energy efficient data sorting using standard sorting algorithms,"Bunse, Christian; Höpfner, Hagen; Roychoudhury, Suman; Mansour, Essam",2009
+60,Understanding the impact of object oriented programming and design patterns on energy efficiency,"Maleki, Sepideh; Fu, Cuijiao; Banotra, Arun; Zong, Ziliang",2017
+61,Toward using software metrics as indicator to measure power consumption of mobile application: A case study,"Keong, Ching Kin; Wei, Koh Tieng; Ghani, Abdul Azim Abd; Sharif, Khaironi Yatim",2015
+62,Optimizing energy consumption of guis in android apps: A multi-objective approach,"Paper proposes a multi-objective technique to generate color compositions that reduce the energy consumption of GUIs in Android apps and are visually attractive at the same time. The paper uses pixel-engineering, power-models, color theory, dynamic analysis and genetic algorithms to create a pareto-optimal color set to optimize three scenarios, increasing energy efficiency, increasing contrast, and improving the attractiveness of colors.",2015
+63,"Energy efficiency across programming languages: how do energy, time, and memory relate?","Pereira, Rui; Couto, Marco; Ribeiro, Francisco; Rua, Rui; Cunha, Jácome; Fernandes, João Paulo; Saraiva, João",2017
+64,A study of energy-aware implementation techniques: Redistribution of computational jobs in mobile apps,"Corral, Luis; Georgiev, Anton B.; Sillitti, Alberto; Succi, Giancarlo",2015
+65,"Comparing REST, SOAP, Socket and gRPC in computation offloading of mobile applications: An energy cost analysis","Chamas, Carolina Luiza; Cordeiro, Daniel; Eler, Marcelo Medeiros",2017
+66,Green software requirements and measurement: random decision forests-based software energy consumption profiling,"Beghoura, Mohamed Amine; Boubetra, Abdelhak; Boukerram, Abdallah",2017
+67,Extending software architecture views with an energy consumption perspective,"Jagroep, Erik; van der Werf, Jan Martijn; Brinkkemper, Sjaak; Blom, Leen; van Vliet, Rob",2017
+68,Mobile device power models for energy efficient dynamic offloading at runtime,"Ali, Farhan Azmat; Simoens, Pieter; Verbelen, Tim; Demeester, Piet; Dhoedt, Bart",2016
+69,Energy optimization in Android applications through wakelock placement,"Alam, Faisal; Panda, Preeti Ranjan; Tripathi, Nikhil; Sharma, Namita; Narayan, Sanjiv",2014
+70,Energy Efficiency Analysis of Code Refactoring Techniques for Green and Sustainable Software in Portable Devices,"Şanlıalp, İbrahim; Öztürk, Muhammed Maruf; Yiğit, Tuncay",2022
+71,Impacts of software and its engineering on the carbon footprint of ICT,"Kern, Eva; Dick, Markus; Naumann, Stefan; Hiller, Tim",2015
+72,Green Patterns of User Interface Design: A Guideline for Sustainable Design Practices,"Nayak, Jitesh; Chandwadkar, Apurva",2021
+73,Evaluation of Software Product Quality Attributes and Environmental Attributes using ANP Decision Framework.,"Koçak, Sedef Akinli; Alptekin, Gülfem Isiklar; Bener, Ayse",2014
+74,Self-adaptive battery and context aware mobile application development,"Datta, Soumya Kanti; Bonnet, Christian; Nikaein, Navid",2014
+75,Greenbundle: an empirical study on the energy impact of bundled processing,"Chowdhury, Shaiful Alam; Hindle, Abram; Kazman, Rick; Shuto, Takumi; Matsui, Ken; Kamei, Yasutaka",2019
+76,Reducing energy consumption using genetic improvement,"Bruce, Bobby R.; Petke, Justyna; Harman, Mark",2015
+77,Towards automatic significance analysis for approximate computing,"Vassiliadis, Vassilis; Riehme, Jan; Deussen, Jens; Parasyris, Konstantinos; Antonopoulos, Christos D.; Bellas, Nikolaos; Lalis, Spyros; Naumann, Uwe",2016
+78,Ape: An annotation language and middleware for energy-efficient mobile application development,"Nikzad, Nima; Chipara, Octav; Griswold, William G.",2014
+79,Investigating Energy and Security Trade-offs in the Classroom with the Atom ${$LEAP$}$ Testbed,"Peterson, Peter AH; Singh, Digvijay; Kaiser, William J.; Reiher, Peter L.",2011
+80,Differences of energetic consumption between Java and JNI Android apps,"Ramírez, Ricardo Isidro; Rubio, Erika Hernández; Viveros, Amilcar Meneses; Hernández, Irene Monserrat Torres",2014
+81,Self-adaptive energy-efficent applications: the hadas developing approach,"Horcas, Jose Miguel; Pinto, Mónica; Fuentes, Lidia; Gámez, Nadia",2017
+82,Fine-grained power management using process-level profiling,"Chen, Hui; Li, Youhuizi; Shi, Weisong",2012
+83,Green mining: a methodology of relating software change and configuration to power consumption,"Hindle, Abram",2015
+84,Greenminer: A hardware based mining software repositories software energy consumption framework,"Hindle, Abram; Wilson, Alex; Rasmussen, Kent; Barlow, E. Jed; Campbell, Joshua Charles; Romansky, Stephen",2014
+85,A comprehensive study on the energy efficiency of java’s thread-safe collections,"Pinto, Gustavo; Liu, Kenan; Castor, Fernando; Liu, Yu David",2016
+86,Initial explorations on design pattern energy usage,"Sahin, Cagri; Cayci, Furkan; Gutierrez, Irene Lizeth Manotas; Clause, James; Kiamilev, Fouad; Pollock, Lori; Winbladh, Kristina",2012
+87,GREEN MOBILE APPLICATION DEVELOPMENT THROUGH SOFTWARE LOCALIZATION,"Kasakliev, Nikolay; Somova, Elena; Gocheva, Margarita",2019
+88,Evaluating the impact of code smell refactoring on the energy consumption of android applications,"Anwar, Hina; Pfahl, Dietmar; Srirama, Satish N.",2019
+89,Is software “green”? Application development environments and energy efficiency in open source applications,"Capra, Eugenio; Francalanci, Chiara; Slaughter, Sandra A.",2012
+90,Exploring the energy consumption of data sorting algorithms in embedded and mobile environments,"Bunse, Christian; Höpfner, Hagen; Mansour, Essam; Roychoudhury, Suman",2009
+91,"Program energy efficiency: The impact of language, compiler and implementation choices","Abdulsalam, Sarah; Lakomski, Donna; Gu, Qijun; Jin, Tongdan; Zong, Ziliang",2014
+92,What is keeping my phone awake? Characterizing and detecting no-sleep energy bugs in smartphone apps,"Pathak, Abhinav; Jindal, Abhilash; Hu, Y. Charlie; Midkiff, Samuel P.",2012
+93,Haskell in green land: Analyzing the energy behavior of a purely functional language,"Lima, Luís Gabriel; Soares-Neto, Francisco; Lieuthier, Paulo; Castor, Fernando; Melfe, Gilberto; Fernandes, João Paulo",2016
+94,Process-level power estimation in vm-based systems,"Colmant, Maxime; Kurpicz, Mascha; Felber, Pascal; Huertas, Loïc; Rouvoy, Romain; Sobe, Anita",2015
+95,Monitoring energy hotspots in software,"Noureddine, Adel; Rouvoy, Romain; Seinturier, Lionel",2015
+96,Understanding the impact of cloud patterns on performance and energy consumption,"Khomh, Foutse; Abtahizadeh, S. Amirhossein",2018
+97,On the impact of code smells on the energy consumption of mobile applications,"Palomba, Fabio; Di Nucci, Dario; Panichella, Annibale; Zaidman, Andy; De Lucia, Andrea",2019
+98,An investigation into energy-saving programming practices for android smartphone app development,"Li, Ding; Halfond, William GJ",2014
+99,Greening an existing software system using the GPU,"Scanniello, Giuseppe; Erra, Ugo; Caggianese, Giuseppe; Gravino, Carmine",2013
+100,Understanding energy behaviors of thread management constructs,"Pinto, Gustavo; Castor, Fernando; Liu, Yu David",2014
+101,Assessment of rest and websocket in regards to their energy consumption for mobile applications,"Herwig, Volker; Fischer, René; Braun, Peter",2015
+102,Anole: a case for energy-aware mobile application design,"Chen, Hui; Luo, Bing; Shi, Weisong",2012
+103,Variability models for generating efficient configurations of functional quality attributes,"Horcas, Jose-Miguel; Pinto, Mónica; Fuentes, Lidia",2018
+104,Energy Efficient Software Development Techniques for Cloud based Applications,"Alsayyah, Aeshah A.; Ahmed, Shakeel",2020
+105,Melta: A method level energy estimation technique for android development,"Farooq, Muhammad Umer; Khan, Saif Ur Rehman; Beg, Mirza Omer",2019
+106,An empirical study of the energy consumption of android applications,"Li, Ding; Hao, Shuai; Gui, Jiaping; Halfond, William GJ",2014
+107,Characterizing the performance and energy efficiency of lock-free data structures,"Hunt, Nicholas; Sandhu, Paramjit Singh; Ceze, Luis",2011
+108,A source-level energy optimization framework for mobile applications,"Li, Xueliang; Gallagher, John P.",2016
+109,Time-and-energy-aware computation offloading in handheld devices to coprocessors and clouds,"Lin, Ying-Dar; Chu, Edward T.-H.; Lai, Yuan-Cheng; Huang, Ting-Jun",2013
+110,Tools supporting green computing in Erlang,"Nagy, Gergely; Mészáros, Áron Attila; Bozó, István; Tóth, Melinda",2019
+111,Green software architectures: A market-based approach,"Rangaraj, Govindaraj; Bahsoon, Rami",2010
+112,Accurate online power estimation and automatic battery behavior based power model generation for smartphones,"Zhang, Lide; Tiwana, Birjodh; Qian, Zhiyun; Wang, Zhaoguang; Dick, Robert P.; Mao, Zhuoqing Morley; Yang, Lei",2010
+113,A green software development life cycle for cloud computing,"Chauhan, Nitin Singh; Saxena, Ashutosh",2013
+114,Seeds: A software engineer's energy-optimization decision support framework,"Manotas, Irene; Pollock, Lori; Clause, James",2014
+115,Investigation for Software Power Consumption of Code Refactoring Techniques.,"Park, Jae Jin; Hong, Jang-Eui; Lee, Sang-Ho",2014
+116,ptop: A process-level power profiling tool,"Do, Thanh; Rawshdeh, Suhib; Shi, Weisong",2009
+117,Greenoracle: Estimating software energy consumption with energy measurement corpora,"Chowdhury, Shaiful Alam; Hindle, Abram",2016
+118,Energy profiles of java collections classes,"Hasan, Samir; King, Zachary; Hafiz, Munawar; Sayagh, Mohammed; Adams, Bram; Hindle, Abram",2016
+119,Empirical evaluation of two best practices for energy-efficient software development,"Procaccianti, Giuseppe; Fernández, Héctor; Lago, Patricia",2016
+120,Investigating the effect of design patterns on energy consumption,"Feitosa, Daniel; Alders, Rutger; Ampatzoglou, Apostolos; Avgeriou, Paris; Nakagawa, Elisa Yumi",2017
+121,Search-based energy optimization of some ubiquitous algorithms,"Brownlee, Alexander Edward Ian; Burles, Nathan; Swan, Jerry",2017
+122,Optimising energy consumption of design patterns,"Noureddine, Adel; Rajan, Ajitha",2015
+123,Mining energy-greedy api usage patterns in android apps: an empirical study,"Linares-Vásquez, Mario; Bavota, Gabriele; Bernal-Cárdenas, Carlos; Oliveto, Rocco; Di Penta, Massimiliano; Poshyvanyk, Denys",2014
+124,An Aspect Oriented Model for Software Energy Efficiency in Decentralised Servers.,"Chinenyeze, Samuel; Liu, Xiaodong; Al-Dubai, Ahmed Yassin",2014
+125,Earmo: An energy-aware refactoring approach for mobile apps,"Morales, Rodrigo; Saborido, Rubén; Khomh, Foutse; Chicano, Francisco; Antoniol, Giuliano",2017
+126,Architectural Tactics to Optimize Software for Energy Efficiency in the Public Cloud,"Vos, Sophie; Lago, Patricia; Verdecchia, Roberto; Heitlager, Ilja",2022
+127,Energy consumption and efficiency in mobile applications: A user feedback study,"Wilke, Claas; Richly, Sebastian; Götz, Sebastian; Piechnick, Christian; Aßmann, Uwe",2013
+128,Data-oriented characterization of application-level energy optimization,"Liu, Kenan; Pinto, Gustavo; Liu, Yu David",2015
+129,Code-level Optimization for Program Energy Consumption,"Fu, Cuijiao; Qian, Depei; Huang, Tianming; Luan, Zhongzhi",2019
+130,SPELLing out energy leaks: Aiding developers locate energy inefficient code,"Pereira, Rui; Carção, Tiago; Couto, Marco; Cunha, Jácome; Fernandes, João Paulo; Saraiva, João",2020
+131,Model-based energy efficiency analysis of software architectures,"Stier, Christian; Koziolek, Anne; Groenda, Henning; Reussner, Ralf",2015
+132,Seflab: A lab for measuring software energy footprints,"Ferreira, Miguel A.; Hoekstra, Eric; Merkus, Bo; Visser, Bram; Visser, Joost",2013
+133,Impact of developer choices on energy consumption of software on servers,"Singh, Jasmeet; Naik, Kshirasagar; Mahinthan, Veluppillai",2015
+134,The software perspective for energy-efficient mobile applications development,"Siebra, Clauirton; Costa, Paulo; Miranda, Regina; Silva, Fabio QB; Santos, Andre",2012
+135,Comparing the Energy Consumption of Java I/O Libraries and Methods,"Ournani, Zakaria; Rouvoy, Romain; Rust, Pierre; Penhoat, Joel",2021
+136,Measuring application software energy efficiency,"Capra, Eugenio; Francalanci, Chiara; Slaughter, Sandra A.",2012
+137,How green are cloud patterns?,"Abtahizadeh, S. Amirhossein; Khomh, Foutse; Guéhéneuc, Yann-Gaël",2015
+138,Leafactor: Improving energy efficiency of android apps via automatic refactoring,"Cruz, Luis; Abreu, Rui; Rouvignac, Jean-Noël",2017
+139,Towards an Energy-Consumption Based Complexity Classification for Resource Substitution Strategies.,"Höpfner, Hagen; Bunse, Christian",2010
+140,Enforcing green code with Android lint,"Goaër, Olivier Le",2020
+141,"Software optimization for performance, energy, and thermal distribution: Initial case studies","Khan, Md Ashfaquzzaman; Hankendi, Can; Coskun, Ayse Kivilcim; Herbordt, Martin C.",2011
+142,Managing the energy-delay tradeoff in mobile applications with tempus,"Nikzad, Nima; Radi, Marjan; Chipara, Octav; Griswold, William G.",2015
