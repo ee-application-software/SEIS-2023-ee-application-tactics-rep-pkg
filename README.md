@@ -5,11 +5,14 @@ Anonymous authors, blinded for review. 2023. The Forgotten Research Path with a 
 
 It contains all the material required for replicating the study, including: 
 
-- the initial search results
-- the included primary papers
-- the included snowballing papers 
-- the data extraction sheet 
-- the keywording sheet
+- [the initial search results](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/00_initial_search_results.csv)
+- [the included primary papers](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/01_included_from_initial_search.csv)
+- [the included snowballing papers](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/02_included_snowballed_papers.csv)
+- [the rejected snowballing papers](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/03_rejected_snowballed_papers.csv)
+- [the data extraction sheet](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/04_data_extraction.csv) 
+- [the keywording sheet](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/05_keywording.csv)
+- [the primary studies](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/06_primary_studies.csv)
+- [the secondary studies](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/07_secondary_studies.csv)
 
-In the root folder one can find the primary and secondary studies included in the submission.
+In the root folder one can find PDF versions the [primary](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/primary_studies.pdf) and [secondary](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/secondary_studies.pdf) studies included in the submission.
 
