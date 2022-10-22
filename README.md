@@ -1,7 +1,7 @@
 # A Systematic Review of Energy Efficient Software Tactics
-This repository is a companion page for the following submission.
+This repository is a companion page for the following submission:
 
-Anonymous authors, blinded for review. 2023. The Forgotten Research Path with a Vicious Cycle: A Systematic Review of Energy Efficient Software Tactics. SEIS - Software Engineering in Society.
+Anonymous authors, blinded for review. 2023. A Systematic Review of Energy Efficient Software Tactics. SEIS - Software Engineering in Society.
 
 It contains all the material required for replicating the study, including: 
 
