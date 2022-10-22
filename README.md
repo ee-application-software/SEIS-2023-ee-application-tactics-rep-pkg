@@ -11,6 +11,6 @@ It contains all the material required for replicating the study, including:
 - [the rejected snowballing papers](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/03_rejected_snowballed_papers.csv)
 - [the data extraction sheet](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/04_data_extraction.csv) 
 - [the keywording sheet](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/05_keywording.csv)
-- [the primary studies (including the extended papers)](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/06_primary_studies.csv)[PDF](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/primary_studies.pdf)
-- [the secondary studies](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/07_secondary_studies.csv)[PDF](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/secondary_studies.pdf)
+- [the primary studies (including the extended papers)](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/06_primary_studies.csv) [\[PDF\]](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/primary_studies.pdf)
+- [the secondary studies](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/data/07_secondary_studies.csv) [\[PDF\]](https://github.com/ee-application-software/SEIS-2023-ee-application-tactics-rep-pkg/blob/main/secondary_studies.pdf)
 
